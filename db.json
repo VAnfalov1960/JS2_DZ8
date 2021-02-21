@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "image": "01.jpg",
+      "name": "Сказка 1",
+      "price": 150.00,
+      "article": "T1",
+      "available": true,
+      "category": "Детские"
+    },
+    {
+      "image": "02.jpg",
+      "name": "Сказка 2",
+      "price": 200.00,
+      "article": "T2",
+      "available": true,
+      "category": "Взрослые"
+    },
+    {
+      "image": "03.jpg",
+      "name": "Сказка 3",
+      "price": 250.00,
+      "article": "T3",
+      "available": true,
+      "category": "Взрослые"
+    },
+    {
+      "image": "04.jpg",
+      "name": "Сказка 4",
+      "price": 200.00,
+      "article": "T4",
+      "available": true,
+      "category": "Детские"
+    },
+    {
+      "image": "05.jpg",
+      "name": "Сказка 5",
+      "price": 100.00,
+      "article": "T5",
+      "available": true,
+      "category": "Взрослые"
+    },
+    {
+      "image": "06.jpg",
+      "name": "Сказка 6",
+      "price": 500.00,
+      "article": "T6",
+      "available": true,
+      "category": "Взрослые"
+    }
+  ]
+}
